@@ -13,3 +13,4 @@ All you need to do is copy and paste the code from start to finish like so:
   <img src="img.jpg" alt="" />
 </div>
 ```
+It will update everything automatically, so you don't need to touch the CSS or Javascript.
